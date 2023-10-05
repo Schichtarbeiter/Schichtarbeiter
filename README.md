@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Schichtarbeiter
 - 👀 I’m interested in 3D printing
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on the improvement of SuperSlicer
+- 💞️ I’m looking to collaborate on the improvement of Orcaslicer
 - 📫 How to reach me ...
 
 <!---
